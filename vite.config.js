@@ -5,7 +5,7 @@ import vue from '@vitejs/plugin-vue'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/WeddingInvitation-v2/',
+  base: '/Wedding-Invitation-v2/',
   plugins: [vue()],
   resolve: {
     alias: {
