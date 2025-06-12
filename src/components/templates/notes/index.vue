@@ -14,9 +14,6 @@ import Card from "@/components/atom/card/index.vue"
 
 <style lang="scss" scoped>
 .notes {
-  &__date {
-    margin-bottom: 30px;
-  }
 
   .date-title {
     text-align: center;
